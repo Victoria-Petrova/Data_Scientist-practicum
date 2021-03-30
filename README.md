@@ -7,7 +7,7 @@
 
 [Рекомендация тарифов]( https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%962)
 
-[Отток клиентов.](https://nbviewer.jupyter.org/github/Viktoriy-Petrova/Yandex.Practicum.Data_Scientist/blob/main/Project_%E2%84%963/Project_%E2%84%9603.ipynb)
+[Отток клиентов.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%963)
 
 [Выбор региона для разработки новых нефтяных скважин.](https://nbviewer.jupyter.org/github/Viktoriy-Petrova/Yandex.Practicum.Data_Scientist/blob/main/project_04.ipynb)
 
