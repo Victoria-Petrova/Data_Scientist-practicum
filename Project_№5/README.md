@@ -1,4 +1,4 @@
-# [Оптимизация производства.]( https://github.com/Viktoriy-Petrova/Yandex.Practicum.Data_Scientist/blob/main/Project_%E2%84%964/project_04.ipynb)
+# [Оптимизация производства.]( https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/blob/master/Project_%E2%84%965/project%E2%84%965.ipynb)
 
 ## Описание проекта
 
