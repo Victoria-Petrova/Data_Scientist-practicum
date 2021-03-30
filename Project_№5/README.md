@@ -7,6 +7,7 @@
 ## Описание данных
 
 Технологический процесс:
+
         - Rougher feed — исходное сырье
         - Rougher additions (или reagent additions) — флотационные реагенты: Xanthate, Sulphate, Depressant
         - Xanthate ** — ксантогенат (промотер, или активатор флотации);
