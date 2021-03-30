@@ -9,6 +9,6 @@
 
 [Отток клиентов.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%963)
 
-[Выбор региона для разработки новых нефтяных скважин.](https://nbviewer.jupyter.org/github/Viktoriy-Petrova/Yandex.Practicum.Data_Scientist/blob/main/project_04.ipynb)
+[Выбор региона для разработки новых нефтяных скважин.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%964)
 
 
