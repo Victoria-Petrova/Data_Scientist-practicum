@@ -3,7 +3,7 @@
 ### Языки программирования:`Python`
 ### IDE:`Jupyter Notebook`
 ## Проекты:
-[Определение потенциально популярного продукта для компании компьютерных игр.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/blob/master/Project_%E2%84%961/project_01.ipynb)
+[Определение потенциально популярного продукта для компании компьютерных игр.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%961)
 
 [Рекомендация тарифов]( https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%962)
 
