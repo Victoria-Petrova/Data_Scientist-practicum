@@ -11,4 +11,4 @@
 
 [Выбор региона для разработки новых нефтяных скважин.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%964)
 
-[Оптимизация производства.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%964)
+[Оптимизация производства.](https://github.com/Victoria-Petrova/Yandex.Practicum.Data_Scientist-main/tree/master/Project_%E2%84%965)
