@@ -1,4 +1,4 @@
-﻿# Yandex.Practicum.Data_Scientist
+﻿# Data_Scientist-practicum
 Репозиторий содержит проекты, выполненные в онлайн-курсе "Яндекс.Практикум". Профессия: Специалист по Data Science.
 ### Языки программирования:`Python`
 ### IDE:`Jupyter Notebook`
